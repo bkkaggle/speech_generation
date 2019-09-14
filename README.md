@@ -36,10 +36,6 @@
     <a href='#license'>License</a>
 </p>
 
-<div>
-    <img src="./screenshot.png" />
-</div>
-
 <p align='center'><strong>Made by <a href='https://github.com/bkkaggle'>Bilal Khan</a> • https://bkkaggle.github.io</strong></p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
