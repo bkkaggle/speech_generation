@@ -42,7 +42,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 -   [Documentation](#documentation)
-    -   [Tacotron](#tacotron)
     -   [Voice cloning](#voice-cloning)
         -   [Colab](#colab)
 -   [Contributing](#contributing)
@@ -53,10 +52,6 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Documentation
-
-## Tacotron
-
-I'm using the colab notebook from [Wavenet Vocoder](https://github.com/r9y9/wavenet_vocoder)
 
 ## Voice cloning
 
@@ -82,4 +77,6 @@ This project is licensed under the MIT license - see the [license](LICENSE) file
 
 # Acknowledgements
 
-This README is based on (https://github.com/bkkaggle/grover) and (https://github.com/rish-16/gpt2client)
+I copied and slightly modified the colab notebook from (https://github.com/CorentinJ/Real-Time-Voice-Cloning).
+
+This README is based on (https://github.com/bkkaggle/grover) and (https://github.com/rish-16/gpt2client).
