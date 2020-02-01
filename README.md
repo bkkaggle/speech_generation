@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align='center'>
-    An easy way to generate speech and clone voices
+    An easy way to generate speech and clone voices **disclamer** almost all code from https://github.com/CorentinJ/Real-Time-Voice-Cloning
 </h4>
 
 <p align='center'>
